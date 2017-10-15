@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="is.ru.StringCalculator.StringCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-15T14:02:17" hostname="desktop-ih35du4.hir.is" time="0.001">
+  <properties/>
+  <testcase name="testEmptyString" classname="is.ru.StringCalculator.StringCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
